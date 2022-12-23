@@ -1,0 +1,6 @@
+https://api.bscscan.com/api
+   ?module=proxy
+   &action=eth_getBlockByNumber
+   &tag=0xa11446
+   &boolean=true
+   &apikey=YourApiKeyToken
